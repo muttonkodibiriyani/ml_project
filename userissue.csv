@@ -1,0 +1,77 @@
+﻿USER ISSUES,,Description
+INFLEXIBLE DASHBOARDS,FEATURE ISSUE,Should be able to import Saved filter to Micro segmentation
+,FEATURE ISSUE,List Factory not working as expected.
+DATA UNAVIALABILITY-Campaign related data not available,NEW REQUIREMENT,Customers Targeted for Campaigns – Need customers List of Target and Control group. So that we can understand their behaviour Pre and Post Campaign.
+,NEW REQUIREMENT,"We would like to have campaign result (Email,SMS and Offers) at Customer view level."
+LACK OF TRAINING,TRAINING ISSUE,Lack of Training for new users on the functionality
+HELP DESK UNAVAILIBILITY,TEAM RESPONSE ISSSUE,Response from Manthan's side on raised ticket is very late and user urgent requests do not get addressed on priority basis 
+INFLEXIBLE DASHBOARDS/LACK OF CROSS PLATFORM ACCESS,FEATURE ISSUE,User faces difficulty in working parallelly with other tools while accessing Manthan platform
+LACK OF DASHBOARD CSUTOMIZATION,PLATFORM ISSUE,User need to have data in CSV format downloading option available in Manthan platform for huge data
+,, User access part can be improvised. 
+DATA UNAVIALABILITY-Campaign related data not available,NEW REQUIREMENT,"Many of the new store opening related sales data was unavailable to user from Algonomy's end and this created a big mess .Hence user  requested, complete data availability should be there at Algonomy's end to maintain accessibility and effectiveness of workflow."
+LOWER USER ADOPTION,,Currently Adoption is Lower. Data is not complete from User perspective
+LACK OF TRAINING,,Need to have Hands on Data from Algonomy
+LACK OF ADVANCE ANALYTICAL TOOLS & INTERFACE,,Interface Improvement is required- New tool Interface has to be better.
+LACK OF USER ENGAGEMENT,,Need Improvement from User Perspective
+UNAVAILIBILITY OF SMART REPORT,,Need to address Business Pulse
+,,Dependency more on Business Pulse will kill the Adoption policy
+INACCURATE DATA,,Leadership wants change to be accurate and significant
+NO ADVANCE CHANGE NOTIFICATION TO USER,,Change impact on other components should be taken care of
+HELP DESK UNAVAILIBILITY,,Need a chat assistance
+HELP DESK UNAVAILIBILITY,,No one earlier from Manthan side was present to assist user or help them immediately.
+LACK OF ACCURATE AND SINGLE DATA SOURCE,,Information source is limited from Manthan side
+DATA INACCURACY,,Reports mismatch is there in terms of my micros and Manthan report. As micros reports for sales figures gets updated on a regular basis hence figures are updated but this is not the case in Manthan 
+,,Demand part from Manthan is complex. Requirement gathering from user till development is a time taking process from Manthan side.
+INFLEXIBLE DASHBOARD,,No free-flowing dashboard
+INFLEXIBLE TOOLS,,The modules are not very user friendly- users cannot drag n drop columns and rows in modules
+,,Information uploaded for the database is not immediately reflected. The daily sales report or delivery reports etc. are not updated immediately. It takes time almost 3-4 days as operations does updates to have updated reports for users.
+LOWER USER ENGAGEMENT,,For a new user Algonomy platforms are not very intuitive. It becomes difficult for a new user to learn by own using the Algonomy platform 
+LACK OF ADVANCE ANALYTICAL TOOLS & INTERFACE,,Less flexibility in charts and graphs creation for users. 
+,,"Also, minimal accessibility to users."
+LACK OF ADVANCE ANALYTICAL TOOLS & INTERFACE,,"Due to absence of tools in Algonomy like Power BI has ,it makes users process of analyzing data lengthy. Manthan reports are populated in excels by users and then analyzed hence this makes user process time consuming and difficult."
+LACK OF ADVANCE ANALYTICAL TOOLS & INTERFACE,,"Flexibility in trend chart in Algonomy is not present. Hence, changing of range and date points becomes difficult for users. Trend chart is almost static ."
+LACK OF OMNICHANNEL PRESENCE,,Obstacles are faced by users in terms of adding different metrics in Manthan report because data model does not support this.
+INACCURATE DATA,,Some of the incorrect or irrelevant KPIs are present in Manthan with wrong data.
+LACK OF COMPLETE DATA AVAILABILITY,,Users need all business related relevant KPIs to be present in Algonomy.
+LACK IN E-COM PRESENCE/WEAK E-COM BRANDING,,Manthan presence for E-Comm is negligible
+LACK OF OMNICHANNEL PRESENCE,,For Omnichannel presence Manthan is not up to the mark
+INACCURATE DATA,,"Unavailibilty ,Inaccuracy and Insufficient data for user in Manthan platform for example to calculate Customer lifetime value customer retention data was not present in Manthan platform for users"
+INACCURATE DATA,,"Unavailibilty ,Inaccuracy and Insufficient data for user in Manthan platform for example to calculate Customer lifetime value customer retention data was not present in Manthan platform for users"
+LACK OF TRAINING,,Lack of proper training of BI tools to users from Manthan's end 
+,,Lack of advance analytical tools 
+,,Lack of adoption of Manthan tools by users
+,,Lack of proper reporting data in Manthan platform for all the campaigns which is highly required by user. User rates Manthan 4 out of 10 in terms of reporting data.
+,,Lack of adoption of industry best practices by Manthan
+,,Training is required for new users as they struggle in working with Manthan platform
+,,Users faces challenges in adopting Manthan tools initially
+,,Data inaccuracy is another issue which user faces in Manthan platform
+,,User faces difficulty in getting final KPIs as user updates it many times to get data accuracy
+,,As business is evolving very quickly hence adding required dimensions and new measures is a big challenge for users and this makes Manthan tool inflexible for users.
+,,If required users cannot create their own dashboards in Manthan 
+,,If user requests for a dashboard it takes 3-4 months to get created which makes it unusable as requirement expires by the time
+,,User do not have the functionality of deleting KPIs and are unaware about creating SNOW tickets for such accessibility
+,,Lower Adoption rate of Manthan platform by user
+,,Lower Engagement with the platform
+,,Lack of visibility about Manthan's data source to the user
+,,Less user friendly platform
+,,Data discrepancies user faces in Manthan Platform
+,,Lack of trainings to user from Manthan's side
+,,Lack of data source knowledge and authenticity to user
+,,User faces Data Inaccuracy in Manthan platform 
+,,User faces data inaccuracy for critical KPIs like sales and stock 
+,,Margin percentages are very much inaccurate in Manthan platform users are not confident about data correctness in Manthan platform
+,,User faces Continuity of data inaccuracy in Manthan platform
+,,User not being notified regularly about data source accuracy
+,,User faces Data Unavailability in Manthan platform
+LACK OF KPIs CUSTOMIZATION,,In Manthan platform user cannot share the queries. Also once the user faces issues like original KPIs gets amended by others as well.
+,,User face scheduling challenges around ETL
+LACK OF REGULAR DATA VALIDATION,,Lack of regular data validation check from Manthan side
+,,Lack of proper training to user
+,,User faces unavailability of customized dashboard in Manthan platform
+,,User adoption is low
+,,Users cannot have variety in features in Manthan platform
+,,Any change in the source data or new implementation is not being notified to the users from Manthan side. Ex Change in brand code etc.
+,,Lack of regular trainings on new KPIs and business pulse reports to users
+,,"User faces flexibility issues in Manthan platform like user cannot add new roles ,user cannot move rows and columns and further drill down not available."
+,,User faces lack of complete data availability in one Manthan as a source.
+,,Lack of confidence in user about Manthan's data
